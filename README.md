@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Bigdata-Ayaan
-- 👀 I’m interested in Big data and cloud emerging technologies around the world
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on Big data, AWS Cloud, Linux Adminstration
+- 👋 Hi, I’m @Ayaan
+- Data Management is my thing !
+
 
 
 <!---
